@@ -5,3 +5,5 @@ elif(score < 70 ):
     print("You not pass the section.")
 else:
     print("Condition is not define.")
+
+#Test
